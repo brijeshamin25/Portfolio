@@ -8,5 +8,5 @@
 <a hres="https://mini-project-portfolio.brijeshamin1.repl.co/">Say Hi</a><br>
 <img src="WhatsApp Image 2021-02-04 at 11.38.58 AM.jpeg" alt="BK"><br>
 Hello, I am the Brijesh Amin<br>
-Please, click below button to review my resume.<br>
+Please, click below button to review my Resume!<br>
 <a href="https://mini-project-portfolio.brijeshamin1.repl.co/" class="res-btn">See My Resume</a>
